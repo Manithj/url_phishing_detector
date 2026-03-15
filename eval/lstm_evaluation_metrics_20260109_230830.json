@@ -1,0 +1,17 @@
+{
+  "model_name": "LSTM (BiLSTM-DL)",
+  "total_samples": 600,
+  "valid_samples": 600,
+  "error_samples": 0,
+  "accuracy": 0.25,
+  "precision": 0.13195876288659794,
+  "recall": 0.6881720430107527,
+  "f1_score": 0.22145328719723184,
+  "true_positives": 64,
+  "false_positives": 421,
+  "true_negatives": 86,
+  "false_negatives": 29,
+  "avg_inference_time_seconds": 0.004059886535008749,
+  "total_evaluation_time_seconds": 3.102018,
+  "evaluation_timestamp": "2026-01-09T23:08:27.528874"
+}

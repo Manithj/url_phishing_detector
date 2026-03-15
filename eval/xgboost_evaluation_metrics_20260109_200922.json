@@ -1,0 +1,17 @@
+{
+  "model_name": "XGBoost (XGBoost-ML)",
+  "total_samples": 300,
+  "valid_samples": 300,
+  "error_samples": 0,
+  "accuracy": 0.4166666666666667,
+  "precision": 0.17435897435897435,
+  "recall": 0.7083333333333334,
+  "f1_score": 0.27983539094650206,
+  "true_positives": 34,
+  "false_positives": 161,
+  "true_negatives": 91,
+  "false_negatives": 14,
+  "avg_inference_time_seconds": 0.006006112893422445,
+  "total_evaluation_time_seconds": 2.299672,
+  "evaluation_timestamp": "2026-01-09T20:09:20.144068"
+}

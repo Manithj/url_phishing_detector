@@ -1,0 +1,21 @@
+{
+  "model_type": "Bidirectional LSTM",
+  "framework": "PyTorch",
+  "accuracy": 0.9707363071169429,
+  "precision": 0.9834225125562157,
+  "recall": 0.957614115841964,
+  "f1_score": 0.9703467374933196,
+  "roc_auc": 0.9959702486494759,
+  "vocab_size": 229,
+  "max_sequence_length": 133,
+  "embedding_dim": 64,
+  "hidden_dim": 128,
+  "num_layers": 2,
+  "training_samples": 250275,
+  "test_samples": 62569,
+  "epochs_trained": 21,
+  "classes": {
+    "good": 0,
+    "bad": 1
+  }
+}
